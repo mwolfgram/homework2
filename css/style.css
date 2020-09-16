@@ -26,8 +26,7 @@ div{
 }
 footer{
   text-align: right;
-  padding-bottom: 10px;
-  padding-right: 10px;
+  padding: 0px 10px 10px 0px;
 }
 #red{
   background-color: #ff0000;
