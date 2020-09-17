@@ -31,7 +31,8 @@ footer p {
 }
 p  {
   font size: 24px;
-  padding top: 20px; 
+  padding top: 20px;
+  padding-bottom: 10px;
 }
 #red{
   background-color: #ff0000;
